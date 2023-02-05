@@ -1,0 +1,79 @@
+{
+    "data": [{
+            "srno": "1",
+            "Que": "Means that the probability that a relationship between two variables is NOT a coincidence.",
+            "Ans": "im5",
+            "ran": "<b>Scatter Plot</b>"
+        }, {
+            "srno": "2",
+            "Que": "To visualize a process over time",
+            "Ans": "im4",
+            "ran": "<b>R<sup>2</sup> =0.38</b>"
+        }, {
+            "srno": "3",
+            "Que": "Means that a variable shows a heigh show a high correlation with another variable.",
+            "Ans": "im6",
+            "ran": "<b>p=0.13</b>"
+        }, {
+            "srno": "4",
+            "Que": "To visualize a possible correlation between variables.",
+            "Ans": "div#im1",
+            "ran": "<b>run chart</b>"
+        }, {
+            "srno": "5",
+            "Que": "Means that the correlation between several variable is weak",
+            "Ans": "im2",
+            "ran": "<b>p=0.03</b>"
+        }, {
+            "srno": "6",
+            "Que": "Means that the probability that a relationship between two variable may be a coincidence.",
+            "Ans": "im3",
+            "ran": "<b>R<sup>2</sup> =0.87</b>"
+        }
+    ],
+    "state0": "Check your Knowledge",
+    "state1": "Match the relevent area to its charectristic feature.",
+    "state2": "When you're done, click Submit.",
+    "title1": "Six Sigma IV - DMAIC-Go!",
+    "title2": "Analyze",
+    "dragPos": [{
+            "left": "900px",
+            "top": "110px"
+        }, {
+            "left": "900px",
+            "top": "160px"
+        }, {
+            "left": "900px",
+            "top": "210px"
+        }, {
+            "left": "900px",
+            "top": "260px"
+        }, {
+            "left": "900px",
+            "top": "310px"
+        },{
+            "left": "900px",
+            "top": "360px"
+        }
+    ],
+    "dropPos": [{
+            "left": "630px",
+            "top": "110px"
+        }, {
+            "left": "630px",
+            "top": "160px"
+        }, {
+            "left": "630px",
+            "top": "210px"
+        }, {
+            "left": "630px",
+            "top": "260px"
+        }, {
+            "left": "630px",
+            "top": "310px"
+        }, {
+            "left": "630px",
+            "top": "360px"
+        }
+    ]
+}
